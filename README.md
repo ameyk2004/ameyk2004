@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- View my Projects on [https://ameykulkarni.onrender.com/projects](https://ameykulkarni.onrender.com/projects)
-
 - 🤝 I’m looking for help with [Local Shrinks](https://github.com/ameyk2004/LocalShrinks)
 
 - 👨‍💻 All of my projects are available at [https://ameykulkarni.onrender.com/projects](https://ameykulkarni.onrender.com/projects)
